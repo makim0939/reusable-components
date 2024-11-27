@@ -20,7 +20,7 @@ const DefaultChildren = (
       backgroundColor: "skyblue",
     }}
   >
-    Drag Me
+    Pinch-in-out on mobile device
   </div>
 );
 export const Default: Story = { args: { children: DefaultChildren } };
